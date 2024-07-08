@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bantionit.github.io/sitemap
+Sitemap: https://bantionit.github.io/app/sitemap
+Sitemap: https://bantionit.github.io/assets/sitemap
+Sitemap: https://bantionit.github.io/css/sitemap
+Sitemap: https://bantionit.github.io/includes/sitemap
+Sitemap: https://bantionit.github.io/item/sitemap
+Sitemap: https://bantionit.github.io/src/sitemap
